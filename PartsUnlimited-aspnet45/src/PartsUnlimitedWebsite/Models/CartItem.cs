@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 //Adding comments
 namespace PartsUnlimited.Models
 {
+    //second change
     public class CartItem : ILineItem
     {
         [Key]
