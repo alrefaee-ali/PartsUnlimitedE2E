@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 using Microsoft.Owin.Security;
-
+//6th comment
 namespace PartsUnlimited.Models
 {
     public class ExternalLoginConfirmationViewModel
