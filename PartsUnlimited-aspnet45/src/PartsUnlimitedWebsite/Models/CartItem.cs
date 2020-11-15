@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
+//Adding comments
 namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
